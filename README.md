@@ -79,7 +79,8 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Buy me a Coffee !!!
-<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_OJwxvKgdJk3S6C" async> </script> </form> 
+## Buy me a Coffee ☕
+[![Buy me a Coffee](https://your-image-url.com/buy-me-coffee-button.png)](https://razorpay.me/@kartikkkdua)
+
 
 
