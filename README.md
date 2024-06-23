@@ -80,7 +80,7 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Buy me a Coffee ☕
-[![Buy me a Coffee](https://your-image-url.com/buy-me-coffee-button.png)](https://razorpay.me/@kartikkkdua)
+[![Buy me a Coffee]([https://your-image-url.com/buy-me-coffee-button.png](https://images.search.yahoo.com/images/view;_ylt=AwrjfMcZ8XdmA4A7pECJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzgzOTIxOWM3YjRhMzJlYmNmYmU3YTU5OTYwMjU0YjY4BGdwb3MDMTIEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbuy%2Bme%2Ba%2Bcoffee%2Bpng%26fr%3Daaplw%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D12&w=400&h=200&imgurl=redwood-labs.s3.amazonaws.com%2Fshowpage%2Fstatic%2Fmarketing%2Fimages%2Flogos%2Fbuy-me-a-coffee.png&rurl=https%3A%2F%2Fwww.podpage.com%2Fintegrations%2F&size=14.6KB&p=buy+me+a+coffee+png&oid=839219c7b4a32ebcfbe7a59960254b68&fr2=piv-web&fr=aaplw&tt=Integrations+%7C+Podpage&b=0&ni=21&no=12&ts=&tab=organic&sigr=dE_qqUFmrubx&sigb=CXAfhPscPIxX&sigi=hwvaaRvqRdpK&sigt=aGsaKg1ZRlGN&.crumb=6yKL.u.Q4jq&fr=aaplw&fr2=piv-web))](https://razorpay.me/@kartikkkdua)
 
 
 
