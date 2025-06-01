@@ -84,13 +84,9 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<h2>Buy Me a Coffee ☕</h2>
-<a href="https://razorpay.me/@kartikkkdua" target="_blank">
-  <img src="https://redwood-labs.s3.amazonaws.com/showpage/static/marketing/images/logos/buy-me-a-coffee.png" 
-       alt="Buy Me a Coffee" 
-       style="height: 60px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
-</a>
+## Buy Me a Coffee ☕
 
+[![Buy me a Coffee](https://redwood-labs.s3.amazonaws.com/showpage/static/marketing/images/logos/buy-me-a-coffee.png)](https://razorpay.me/@kartikkkdua)
 
 
 
