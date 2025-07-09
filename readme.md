@@ -7,12 +7,6 @@ Focused on solving real-world problems through full-stack apps, AI/ML, and scala
 
 ---
 
-## 👋 Dynamic Greeting
-<!-- You can use GitHub Actions or external tools to generate this dynamically -->
-Good Morning / Afternoon / Evening, welcome to my profile! ☀️🌙
-
----
-
 ## 🚀 About Me
 Passionate web developer with extensive experience in Python and data analysis. I love creating dynamic, responsive websites and digging into data to uncover meaningful insights. My goal is to leverage technology to solve real-world problems and continuously learn and grow in the ever-evolving tech landscape.
 
@@ -27,7 +21,7 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -83,18 +77,7 @@ Passionate web developer with extensive experience in Python and data analysis. 
 
 ---
 
-## 🚩 Featured Projects
-
-### Tech Green Goodness  
-![TechGreenGoodness Demo](https://github.com/kartikkkdua/TechGreenGoodness/demo.gif)  
-A sustainable tech solution focusing on environmental impact.  
-[GitHub Repo](https://github.com/kartikkkdua/TechGreenGoodness)  
-
-### [Add More Projects Here with GIFs or Videos]
-
----
-
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -102,57 +85,31 @@ A sustainable tech solution focusing on environmental impact.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kartikkkdua&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkkdua&theme=github-dark)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kartikkkdua&color=blue)
 
 ---
 
-## 📈 Skills Radar (Example Image)
-![Skills Radar](https://raw.githubusercontent.com/kartikkkdua/kartikkkdua/main/skills-radar.png)
-<!-- Replace with your own radar chart -->
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duakartik)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartikkkdua.dev)  
+📧 **kartikcodespaces@gmail.com**
 
 ---
 
-## 🔥 Animated Dev Quote
+## ✨ Extras
+
+### ⏱️ Dev Quote Based on Time
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 🌟 Open Source Contributions
-- [React](https://github.com/facebook/react)  
-- [TensorFlow](https://github.com/tensorflow/tensorflow)  
-- [YourOwnProject](https://github.com/kartikkkdua/YourOwnProject)
+### 🧩 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartikkkdua&theme=darkhub&margin-w=10&row=2&column=3)
 
 ---
 
-## 🏅 Certifications & Achievements
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-yellow?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/certification)
+## ☕ Buy Me a Coffee
 
----
-
-## 🌍 Visitor Count & Geo-location
-
-![Visitor Count](https://komarev.com/ghpvc/?username=kartikkkdua&color=blue)  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kartikkkdua.kartikkkdua)
-
----
-
-## 💬 Latest Tweets / Blog Posts  
-[Embed your Twitter RSS or blog feed here manually or via GitHub Action]
-
----
-
-## 💡 Code Snippet Highlight
-
-```python
-def binary_search(arr, target):
-    low, high = 0, len(arr) - 1
-    while low <= high:
-        mid = (low + high) // 2
-        if arr[mid] == target:
-            return mid
-        elif arr[mid] < target:
-            low = mid + 1
-        else:
-            high = mid - 1
-    return -1
+[![Buy me a Coffee](https://redwood-labs.s3.amazonaws.com/showpage/static/marketing/images/logos/buy-me-a-coffee.png)](https://razorpay.me/@kartikkkdua)
