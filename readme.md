@@ -2,8 +2,15 @@
 
 ![Terminal GH GIF](https://raw.githubusercontent.com/kartikkkdua/kartikkkdua/main/termina-gh.gif)
 
+🎓 **B.Tech CSE Student @ UPES** | 💼 **Aspiring SDE/ML Engineer**  
+Focused on solving real-world problems through full-stack apps, AI/ML, and scalable systems.
+
+---
+
 ## 🚀 About Me
 Passionate web developer with extensive experience in Python and data analysis. I love creating dynamic, responsive websites and digging into data to uncover meaningful insights. My goal is to leverage technology to solve real-world problems and continuously learn and grow in the ever-evolving tech landscape.
+
+---
 
 ## 💻 Tech Stack
 
@@ -56,7 +63,6 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Tools & Others
 ![VS Code](https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -69,21 +75,49 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikkkdua&theme=dark&hide_border=false)
+## 🔧 Featured Projects
+
+- 🛰️ [GeoAttend](https://github.com/kartikkkdua/GeoAttend): Offline-capable face recognition + geolocation attendance system.
+- 🧾 [PrimeMember Portal](https://github.com/kartikkkdua/PrimeMemberPortal): Razorpay-integrated, dark-themed Prime Membership portal.
+- 📊 [DataViz Pro](https://github.com/kartikkkdua/DataVizPro): Streamlit dashboard with ML and PDF export features.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikkkdua&theme=dark&hide_border=false)
 
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kartikkkdua&theme=github-dark)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kartikkkdua&color=blue)
+---
 
-## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 Let's Connect
 
-## Buy Me a Coffee ☕
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikkkdua)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartikkkdua.dev)  
+📧 **kartikkkdua@gmail.com**
+
+---
+
+## ✨ Extras
+
+### 🧠 Coding Activity (WakaTime)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=kartikkkdua&layout=compact&theme=dark)](https://wakatime.com/@kartikkkdua)
+
+### ⏱️ Dev Quote Based on Time
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🧩 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartikkkdua&theme=darkhub&margin-w=10&row=2&column=3)
+
+---
+
+## ☕ Buy Me a Coffee
 
 [![Buy me a Coffee](https://redwood-labs.s3.amazonaws.com/showpage/static/marketing/images/logos/buy-me-a-coffee.png)](https://razorpay.me/@kartikkkdua)
-
