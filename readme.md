@@ -75,13 +75,6 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🔧 Featured Projects
-
-- 🛰️ [GeoAttend](https://github.com/kartikkkdua/GeoAttend): Offline-capable face recognition + geolocation attendance system.
-- 🧾 [PrimeMember Portal](https://github.com/kartikkkdua/PrimeMemberPortal): Razorpay-integrated, dark-themed Prime Membership portal.
-- 📊 [DataViz Pro](https://github.com/kartikkkdua/DataVizPro): Streamlit dashboard with ML and PDF export features.
 
 ---
 
@@ -106,10 +99,6 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ---
 
 ## ✨ Extras
-
-### 🧠 Coding Activity (WakaTime)
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=kartikkkdua&layout=compact&theme=dark)](https://wakatime.com/@kartikkkdua)
-
 ### ⏱️ Dev Quote Based on Time
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
