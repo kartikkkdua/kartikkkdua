@@ -85,7 +85,8 @@ Passionate web developer with extensive experience in Python and data analysis. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kartikkkdua&theme=github-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkkdua&theme=github-dark)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kartikkkdua&color=blue)
 
