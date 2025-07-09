@@ -107,11 +107,6 @@ Hands-on with quantum circuits and algorithms using IBM Qiskit and Google Cirq.
 ![Visitor Count](https://komarev.com/ghpvc/?username=kartikkkdua&color=blue)
 
 
----
-
-## ⚛️ Quantum Circuit Demo
-
-![Quantum Circuit Demo](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
 
 ---
 
