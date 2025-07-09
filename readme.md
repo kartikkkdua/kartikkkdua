@@ -7,6 +7,13 @@ Focused on solving real-world problems through full-stack apps, AI/ML, and scala
 
 ---
 
+## 👋 Personalized Greeting
+
+Hi there! Welcome to my GitHub profile.  
+Feel free to explore my projects and reach out if you want to collaborate!
+
+---
+
 ## 🚀 About Me
 Passionate web developer with extensive experience in Python and data analysis. I love creating dynamic, responsive websites and digging into data to uncover meaningful insights. My goal is to leverage technology to solve real-world problems and continuously learn and grow in the ever-evolving tech landscape.
 
@@ -21,7 +28,7 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -77,6 +84,22 @@ Passionate web developer with extensive experience in Python and data analysis. 
 
 ---
 
+## 🔥 Coding Heatmap (by WakaTime)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&theme=dark)
+
+---
+
+## 🔬 Special Projects & Research
+
+### Image Recognition  
+Implemented deep learning models (CNNs, RetinaFace) for image classification and facial recognition tasks.
+
+### Quantum Computing  
+Hands-on with quantum circuits and algorithms using IBM Qiskit and Google Cirq.
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -87,25 +110,35 @@ Passionate web developer with extensive experience in Python and data analysis. 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikkkdua&theme=github-dark)
 
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=kartikkkdua&color=blue)
 
 ---
 
-## 📫 Let's Connect
+## 🎥 Fun Animated Coding GIF
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duakartik)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartikkkdua.dev)  
-📧 **kartikcodespaces@gmail.com**
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+---
+
+## ⚛️ Quantum Circuit Demo (GIF placeholder)
+
+![Quantum Circuit Demo](https://media.giphy.com/media/l0MYu5IMx6T4RoEuk/giphy.gif)
+
+---
+
+## 📚 Interactive Demos & Notebooks
+
+- [Explore My Jupyter Notebooks](https://nbviewer.org/github/kartikkkdua)
+- [Try Quantum Computing Demo](https://quantum-computing.ibm.com/)
 
 ---
 
 ## ✨ Extras
 
-### ⏱️ Dev Quote Based on Time
+### ⏱️ Dev Quote Based on Time  
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🧩 GitHub Trophies
+### 🧩 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartikkkdua&theme=darkhub&margin-w=10&row=2&column=3)
 
 ---
@@ -113,3 +146,6 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ## ☕ Buy Me a Coffee
 
 [![Buy me a Coffee](https://redwood-labs.s3.amazonaws.com/showpage/static/marketing/images/logos/buy-me-a-coffee.png)](https://razorpay.me/@kartikkkdua)
+
+---
+
