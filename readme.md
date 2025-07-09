@@ -5,12 +5,7 @@
 🎓 **B.Tech CSE Student @ UPES** | 💼 **Aspiring SDE/ML Engineer**  
 Focused on solving real-world problems through full-stack apps, AI/ML, and scalable systems.
 
----
 
-## 👋 Personalized Greeting
-
-Hi there! Welcome to my GitHub profile.  
-Feel free to explore my projects and reach out if you want to collaborate!
 
 ---
 
