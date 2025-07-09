@@ -32,6 +32,13 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%2304AA6D.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Quantum Computing Languages & Frameworks
+![Qiskit](https://img.shields.io/badge/Qiskit-315798?style=for-the-badge&logo=ibm&logoColor=white)
+![Cirq](https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-0096D6?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -106,8 +113,6 @@ Hands-on with quantum circuits and algorithms using IBM Qiskit and Google Cirq.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kartikkkdua&color=blue)
 
-
-
 ---
 
 ## 📚 Interactive Demos & Notebooks
@@ -132,4 +137,3 @@ Hands-on with quantum circuits and algorithms using IBM Qiskit and Google Cirq.
 [![Buy me a Coffee](https://redwood-labs.s3.amazonaws.com/showpage/static/marketing/images/logos/buy-me-a-coffee.png)](https://razorpay.me/@kartikkkdua)
 
 ---
-
