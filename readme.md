@@ -75,32 +75,34 @@ Passionate web developer with extensive experience in Python and data analysis. 
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikkkdua&theme=dark&hide_border=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkkdua&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kartikkkdua&theme=github-dark)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kartikkkdua&color=blue)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikkkdua)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duakartik)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartikkkdua.dev)  
-📧 **kartikkkdua@gmail.com**
+📧 **kartikcodespaces@gmail.com**
 
 ---
 
 ## ✨ Extras
+
 ### ⏱️ Dev Quote Based on Time
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🧩 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartikkkdua&theme=darkhub&margin-w=10&row=2&column=3)
