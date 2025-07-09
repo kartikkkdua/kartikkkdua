@@ -84,12 +84,6 @@ Passionate web developer with extensive experience in Python and data analysis. 
 
 ---
 
-## 🔥 Coding Heatmap (by WakaTime)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&theme=dark)
-
----
-
 ## 🔬 Special Projects & Research
 
 ### Image Recognition  
